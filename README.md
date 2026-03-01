@@ -31,7 +31,7 @@ Este projeto foi desenvolvido acompanhando a videoaula:
 ## 🔧 Como rodar
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/sthefane245/React_Estudos.git](https://github.com/sthefane245/React_Estudos.git)
+    git clone [https://github.com/sthefanes245/React_Estudos.git]
     ```
 2.  Instale as dependências:
     ```bash
