@@ -1,40 +1,42 @@
-📝 Gerenciador de Tarefas (Task Manager)
-Este é um projeto desenvolvido para consolidar conhecimentos fundamentais de React.js, focado em manipulação de estados, roteamento dinâmico e integração com APIs externas.
+# 🚀 Gerenciador de Tarefas (Task Manager)
 
-🚀 Funcionalidades
-Listagem Dinâmica: Renderização de tarefas a partir de um estado centralizado.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
-Adição de Tarefas: Validação de campos (título e descrição) antes da criação.
+## 📌 Sobre o Projeto
+Aplicação desenvolvida em **React** para gerenciamento de tarefas diárias. O projeto permite a criação, exclusão e marcação de tarefas concluídas, utilizando conceitos modernos de desenvolvimento web.
 
-Gerenciamento de Estado: Funcionalidade para marcar tarefas como concluídas ou removê-las da lista.
+## ✨ Funcionalidades
+* **Adição de Tarefas**: Interface com validação para novos itens.
+* **Persistência**: Dados salvos no `localStorage` para não perder informações ao atualizar.
+* **Integração com API**: Consumo de dados iniciais via JSONPlaceholder.
+* **Rotas Dinâmicas**: Navegação entre lista e detalhes com `react-router-dom`.
+* **IDs Únicos**: Uso da biblioteca `uuid` para evitar duplicidade de identificadores.
 
-Persistência Local: Uso de localStorage para manter os dados mesmo após recarregar a página.
 
-Navegação (Routes): Página de detalhes da tarefa com passagem de parâmetros via URL (Query Params).
 
-Consumo de API: Integração com a API JSONPlaceholder para carregamento inicial de dados.
+## 🛠️ Tecnologias
+* **React 18** (Vite)
+* **Tailwind CSS** (Estilização)
+* **React Router Dom** (Navegação)
+* **Lucide React** (Ícones)
 
-🛠️ Tecnologias Utilizadas
-React (Vite)
+## 🔧 Como rodar
+1.  Clone o repositório:
+    ```bash
+    git clone [https://github.com/stherfane245/React_Estudos.git](https://github.com/stherfane245/React_Estudos.git)
+    ```
+2.  Instale as dependências:
+    ```bash
+    npm install
+    ```
+3.  Execute o projeto:
+    ```bash
+    npm run dev
+    ```
 
-Tailwind CSS (Estilização responsiva e utilitária)
-
-React Router Dom (Sistema de rotas)
-
-Lucide React (Pacote de ícones)
-
-UUID (Geração de identificadores únicos)
-
-📦 Como rodar o projeto
-Clone o repositório:
-
-Bash
-git clone https://github.com/stherfane245/React_Estudos.git
-Instale as dependências:
-
-Bash
-npm install
-Inicie o servidor de desenvolvimento:
-
-Bash
-npm run dev
+---
+Desenvolvido por **Sthéfane Almeida** 👩‍💻
