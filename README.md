@@ -9,6 +9,10 @@
 ## 📌 Sobre o Projeto
 Aplicação desenvolvida em **React** para gerenciamento de tarefas diárias. O projeto permite a criação, exclusão e marcação de tarefas concluídas, utilizando conceitos modernos de desenvolvimento web.
 
+## 🎓 Créditos e Aprendizado
+Este projeto foi desenvolvido acompanhando a videoaula:
+**[Curso de React para Completos Iniciantes (2026)](https://www.youtube.com/watch?v=2RWsLmu8yVc)** Ministrado por **Felipe Rocha** (**Full Stack Club**).
+
 ## ✨ Funcionalidades
 * **Adição de Tarefas**: Interface com validação para novos itens.
 * **Persistência**: Dados salvos no `localStorage` para não perder informações ao atualizar.
@@ -27,7 +31,7 @@ Aplicação desenvolvida em **React** para gerenciamento de tarefas diárias. O 
 ## 🔧 Como rodar
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/stherfane245/React_Estudos.git](https://github.com/stherfane245/React_Estudos.git)
+    git clone [https://github.com/sthefane245/React_Estudos.git](https://github.com/sthefane245/React_Estudos.git)
     ```
 2.  Instale as dependências:
     ```bash
